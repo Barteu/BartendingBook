@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BartendingBook" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/brown_500</item>
+        <item name="colorPrimaryDark">@color/brown_700</item>
+        <item name="colorSecondary">@color/brown_700</item>
+        <item name="colorAccent">@color/orange_700</item>
+        <item name="android:colorBackground">@color/gray_300</item>
+        <!-- Customize your theme here. -->
+
+
+
+    </style>
+</resources>
